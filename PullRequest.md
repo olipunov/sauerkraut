@@ -4,4 +4,4 @@ Jose Blanco sent pull request to: https://github.com/mhende18/dreikaesehoch_Stor
 
 Oleg Lipunov sent pull request to: https://github.com/sjbaraho/Ohrwurm_Story/pull/15
 
-Alan sent pull request to: https://github.com/jrlayton/kuddelmuddel-icebreaker/pull/2
+Alan Hsu sent pull request to: https://github.com/jrlayton/kuddelmuddel-icebreaker/pull/2
