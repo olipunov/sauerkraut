@@ -7,3 +7,5 @@ Oleg Lipunov sent pull request to: https://github.com/sjbaraho/Ohrwurm_Story/pul
 Alan Hsu sent pull request to: https://github.com/jrlayton/kuddelmuddel-icebreaker/pull/2
 
 John Lopez sent pull request to: https://github.com/alucas10/ExercisingOurSitzfleisch/pull/3#issue-1175971021
+
+Tyler Brown sent a pull request to: https://github.com/gfulmor/kopfkino_story/pull/1
